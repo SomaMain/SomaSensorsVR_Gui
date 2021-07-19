@@ -1,0 +1,5 @@
+SomaDev_V2.0.exe
+"C:\Users\Soma\source\repos\SomaDev_V2.0\Release\S
+"C:\Users\Soma\source\repos\SomaDev_V2.0\Release\SomaDev_V2.0.exe"
+default.txt
+default_Skelly.txt
