@@ -5,7 +5,6 @@ Start steamVR first before connecting to the server.
 
 
 #Connection Panel
-
 **Scan Port Button** - Scans for devices connected through serial port. Select the one that your hub is connected to
 
 **BaudRate** - Currently useless. Needs to run at 256000 to get 90+hz
