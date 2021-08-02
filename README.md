@@ -3,7 +3,7 @@ First release of the GUI for SomaSensorServer
 
 Start steamVR first before connecting to the server.
 
-![](images/20210801_Gui.png
+![](images/20210801_Gui.png)
 
 
 
