@@ -3,6 +3,10 @@ First release of the GUI for SomaSensorServer
 
 Start steamVR first before connecting to the server.
 
+![](images/20210801_Gui.png
+
+
+
 
 # Connection Panel
 **Scan Port Button** - Scans for devices connected through serial port. Select the one that your hub is connected to
