@@ -13,11 +13,8 @@ BaudRate - Currently useless. Needs to run at 256000 to get 90+hz
 # Trackers - Select the number of trackers you want to show up in steamVR.
 
   - 1 will allow you to use a single tracker as a hip tracker
-  - 
   - 3 will give you a hip and feet trackers. 
-  - 
   - 11 will show all joints. This is for checking all trackers and see if any are rotating incorrectly.
-  - 
 Connect button - Connects to the server
 
 Disconnet Button - Closes the server.
