@@ -4,7 +4,7 @@ First release of the GUI for SomaSensorServer
 Start steamVR first before connecting to the server.
 
 
-#Connection Panel
+# Connection Panel
 **Scan Port Button** - Scans for devices connected through serial port. Select the one that your hub is connected to
 
 **BaudRate** - Currently useless. Needs to run at 256000 to get 90+hz
@@ -19,7 +19,7 @@ Start steamVR first before connecting to the server.
 
 **Disconnet Button** - Closes the server.
 
-#Profile Settings
+# Profile Settings
 
 **Save Profile button** - Save the current settings: Profile, Skeleton, skeleton position, smoothing factor, ground level, Z-rotation
 
@@ -29,7 +29,7 @@ Start steamVR first before connecting to the server.
 
 **Select Client button** - Select the version of the Server you wish to use. This option will be saved inside the profile, so don't forget to save!
 
-#Commands
+# Commands
 
 **Wake Button** - Wake up the HUB once you are inside steamVR and the trackers have shown up
 
@@ -44,7 +44,7 @@ Start steamVR first before connecting to the server.
 **Z-Rotation Buttons** - Rotate clock/counter-clockwise. Align your trackers in YAW so they rotate the same in VR as they do in real life.
 
 
-#Battery
+# Battery
 
 The large battery, in the top right, shows the average battery life amongst all trackers.
 
